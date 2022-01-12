@@ -1,5 +1,5 @@
 # Neutron_Capture_Cross_Sections
-This project allows you to calculate neutron capture cross sections $\sigma_n$
+This project allows you to calculate neutron capture cross sections $\\sigma_n$
 
 
 

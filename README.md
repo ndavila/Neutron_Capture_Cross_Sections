@@ -8,7 +8,7 @@ It is also possible to run the notebook on [Binder](https://mybinder.org).  To d
 
 Alternatively, you can run on your local computer.  To do so, once you have installed [the Jupyter Notebook](https://jupyter.org), download the linked notebook above (right-click or control-click).  To run the notebook from the command line, type, for example,
 
-**jupyter notebook nrlee.ipynb**
+**jupyter notebook neutron_capture_cross_section.ipynb**
 
 Be sure to remove any suffix that is not *.ipynb* on the notebook file you download.  For example, some browsers will by default add a *.txt* to the downloaded file so that it has suffix *.ipynb.txt*.  Remove the *.txt* before running.
 
